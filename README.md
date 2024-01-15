@@ -8,3 +8,7 @@ NPC spawn /addobj 1516
 
 It works for any NPC you can talk to. But this is one of the recommended ones. 
 The quests option doesn't work and so it's broken :)
+
+
+
+Many thanks to Vasily Semenov @Basil for the idea and help during the creation of DMMod
